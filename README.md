@@ -3,7 +3,7 @@ The "Security System Using Voice Recognition" project was implemented in MATLAB.
 
 `SOURCE CODE`
 
-A) Voice Storing
+                        `A) Voice Storing`
 
 Clear all;
 
@@ -47,7 +47,7 @@ end
 
 
 *****
-`B) Voice Matching`
+                         `B) Voice Matching`
 
 clear all;
 
@@ -151,7 +151,7 @@ title('PITCH')
 
 
 ************
-`C) Voice Features`
+                            `C) Voice Features`
 
 function [xPitch]=VoiceFeatures(b)
 
